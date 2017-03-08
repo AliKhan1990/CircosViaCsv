@@ -8,7 +8,7 @@ var BACKGROUND03 = [ "BACKGROUND03" , {
 var SNP03 = [ "SNP03" , {
     maxRadius: 135,
     minRadius: 98,
-    SNPFillColor: "#e84a4a",
+    SNPFillColor: "#f68c1d",
     circleSize: 2,
     displaySNPAxis: false,
     SNPAxisColor: "#B8B8B8",
