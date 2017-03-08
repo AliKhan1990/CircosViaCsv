@@ -1,13 +1,13 @@
 var BACKGROUND04 = [ "BACKGROUND01" , {
-    BginnerRadius: 35,
-    BgouterRadius: 81,
+    BginnerRadius: 85,
+    BgouterRadius: 35,
     BgFillColor: "#F2F2F2",
     BgborderColor : "#000",
     BgborderSize : 0.3
 }];
 var SNP04 = [ "SNP01" , {
-    maxRadius: 37,
-    minRadius: 80,
+    maxRadius: 83,
+    minRadius: 37,
     SNPFillColor: "#19f219",
     circleSize: 2,
     displaySNPAxis: false,
